@@ -9,7 +9,7 @@ Personal portfolio project for Code-301.
 
 - A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?
 
-> Software developer with a background and love for bettering our healthcare technology.
+> Software developer with a background in and love for better healthcare technology.
 
 - Your professional pitch: You’ve done a recording, so just write down here how it goes.
 
